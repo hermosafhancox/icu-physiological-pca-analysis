@@ -1,3 +1,6 @@
+# Data
+data/
+
 # Virtual environment
 .venv/
 __pycache__/
